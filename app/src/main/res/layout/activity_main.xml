@@ -24,7 +24,7 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="AT1"
+            android:text="@string/at1"
             android:textSize="46sp" />
 
         <Button
